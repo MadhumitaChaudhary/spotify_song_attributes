@@ -4,6 +4,8 @@ This project involves analyzing a dataset from Spotify to gain insights into use
 
 ## Dataset
 
+Source: https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes
+
 The dataset contains the following fields:
 
 - `endTime`: The time the song finished playing.
